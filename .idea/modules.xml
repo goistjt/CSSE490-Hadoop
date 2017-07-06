@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CSSE490-Hadoop.iml" filepath="$PROJECT_DIR$/.idea/CSSE490-Hadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-LDA-example/.idea/modules/spark-lda-example.iml" filepath="$PROJECT_DIR$/spark-LDA-example/.idea/modules/spark-lda-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark-LDA-example/.idea/modules/spark-lda-example-build.iml" filepath="$PROJECT_DIR$/spark-LDA-example/.idea/modules/spark-lda-example-build.iml" />
+    </modules>
+  </component>
+</project>
